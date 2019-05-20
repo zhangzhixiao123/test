@@ -13,9 +13,7 @@ import java.io.IOException;
  *该代码仅供学习和研究支付宝接口使用，只是提供一个参考。
  */
 public class AlipayConfig {
-	
 //↓↓↓↓↓↓↓↓↓↓请在这里配置您的基本信息↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-
 	// 应用ID,您的APPID，收款账号既是您的APPID对应支付宝账号
 	public static String app_id = "2016092600600547";
 	
